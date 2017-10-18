@@ -1,4 +1,4 @@
-#Game of Life
+# Game of Life
 
 Features:
 * set world size
